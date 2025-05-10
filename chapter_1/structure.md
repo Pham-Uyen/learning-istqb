@@ -1,0 +1,50 @@
+# Structure
+- Format ISTQB exam: 
+    - No. of questions: 40
+    - Passing score: 26/40
+    - Exam length: 60m (+25% non-native language)
+- Structure: 
+    - Syllabus: 6 chapters
+        - Chapter 1: Fundamentals of Testing 
+            - What is Testing? 
+            - Why is Testing Nesessary? 
+            - Testing principles? 
+            - New Activities, Testware, & Test roles 
+            - Essensial skills & Good practices in Testing 
+        - Chapter 2: Testing throughout the Software Development Lifecycle  
+            - Testing in content of SDLC
+            - Test Levels & Test Types 
+            - Maintainance Testing 
+        - Chapter 3: Static testing
+            - Static Testing Basics 
+            - Feedback & Review process
+        - Chapter 4: Test Analysis & Design
+            - Test Techniques Overview
+            - Black-box Test Techniques
+            - White-box Test Techniques
+            - Experience Based Test Techniques
+            - Collaboration Based Test Approaches 
+        - Chapter 5: Managing The Test Activities 
+            - Test Planning 
+            - Risk Management
+            - Test Monitoring, Test Control & Test Completion 
+            - COnfiguration Management
+            - Defect Management 
+        - Chapter 6: Test Tools 
+            - Tool support for Testing 
+            - Benefits & Risks of Test Automation
+- Business Outcomes: 
+    - Understanding what testing is and why it beneficail
+    - Understanding fundamental concepts of software testing 
+    - Identify the test approach and activities to be implemented depending on the context of testing 
+    - Access and improve the quality of documentation
+    - Increase the effectiveness and efficiency of testing 
+    - Align the test process with the software development lifecycle 
+    - Understand test management principles 
+    - Write and communicate clear and understandable defect reports
+    - Understand the factors that influence the priorities and efforts releated to testing 
+    - Work as part of a cross-functional team
+    - Know risks and benefits releated to test automation 
+    - Identify essential skills required for testing 
+    - Understand the impact of risk on testing 
+    - Effectively report on test progress and quality 
