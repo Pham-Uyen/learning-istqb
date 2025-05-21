@@ -1,0 +1,16 @@
+# Resource 
+- Link tóm tắt kiến thức + làm đề: https://m.istqbonline.vn/home
+- Tài liệu lớp học: https://drive.google.com/drive/folders/1ZuFa4Sm03UdN002jBQHWxPzl0n-i3-rP
+- Recording:
+    - Lesson 1: https://www.youtube.com/watch?v=jIpKZH6eYGM
+    - Lesson 2: https://www.youtube.com/watch?v=FVMzoEC-__Q
+    - Lesson 3: https://www.youtube.com/watch?v=y0dh9N3sdfg
+    - Lesson 4: https://www.youtube.com/watch?v=FxJ3-_rd1RY
+    - Lesson 5: https://www.youtube.com/watch?v=lnZwON_PIf4
+    - Lesson 6: https://www.youtube.com/watch?v=El3rI1KSbAE
+    - Lesson 7: https://www.youtube.com/watch?v=fHNRyamGS4k
+    - Lesson 8: https://www.youtube.com/watch?v=sGKWfm_mqjM
+    - Lesson 9: https://www.youtube.com/watch?v=OB6ucpUzuSk
+    - Lesson 10: https://www.youtube.com/watch?v=Ijk6YezWJv0
+    - Lesson 11: https://www.youtube.com/watch?v=6AFTeEjeOlw
+- Account: phuongthanh5042@gmail.com/Th@nh_cun42
